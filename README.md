@@ -92,8 +92,8 @@ IBM Watsonx.ai will handle the reasoning and generative tasks.
 ### Steps to run repository code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-url.git
-   cd your-repo-directory
+   git clone https://github.com/mongodb/mdb-ibm.git
+   cd mdb-ibm
    ```
 
 2. Install dependencies:
